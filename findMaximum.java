@@ -1,3 +1,4 @@
+/*       This is the java program for finding the maximum element in the array   */         
 import java.lang.*;
 import java.util.*;
 class findMaximum
@@ -42,7 +43,7 @@ class findMaximum
             }
         }
         System.out.println("****************************************************\n");
-        System.out.println("Maximum Element: "+max);
+        System.out.println("                  Maximum Element: "+max);
         System.out.println("\n****************************************************");
     }
 }
